@@ -10163,6 +10163,7 @@ header.masthead .masthead-heading {
   max-width: 25rem;
   margin-left: auto;
   margin-right: auto;
+  min-height: 35rem;
   }
 #portfolio .portfolio-item .portfolio-link {
   position: relative;
