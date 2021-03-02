@@ -6093,7 +6093,7 @@ button.bg-secondary:focus {
 }
 
 .bg-success {
-  background-color: #28a745 !important;
+  background-color: #6bba7c !important;
 }
 
 a.bg-success:hover, a.bg-success:focus,
@@ -6123,7 +6123,7 @@ button.bg-warning:focus {
 }
 
 .bg-danger {
-  background-color: #dc3545 !important;
+  background-color: #f4cb67 !important;
 }
 
 a.bg-danger:hover, a.bg-danger:focus,
@@ -10519,3 +10519,12 @@ section#contact form#contactForm :-ms-input-placeholder {
   font-weight: bold;
   text-transform: uppercase;
 }
+.team_1 {
+  max-width: 35%;
+}
+table {
+  width: 100% !important;
+}
+/*.right-card {
+  float: right !important;
+}*/
